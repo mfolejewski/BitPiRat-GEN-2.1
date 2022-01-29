@@ -1,8 +1,8 @@
 3D STEP file of the assembled PCB
 
-![Screenshot](01.jpg)
-![Screenshot](02.jpg)
-![Screenshot](03.jpg)
-![Screenshot](04.jpg)
-![Screenshot](05.jpg)
-![Screenshot](06.jpg)
+![Screenshot](01.png)
+![Screenshot](02.png)
+![Screenshot](03.png)
+![Screenshot](04.png)
+![Screenshot](05.png)
+![Screenshot](06.png)
